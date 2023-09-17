@@ -22,8 +22,13 @@ Using Vuforia, we were able to do AR image recognition. Once Vuforia is imported
 For our application, we set two separate image targets. The one image is a false target, that when found plays the incorrect video, while the other image is the true target, that when found plays the **"Mission Intor"** followed by the **Hidden Message**,  we also include a bonus feature. 
 
 ## Instructions
- To run the application, download and install it on an appropriate android device, API LEVEL 26 or above. 
- Once installed and opened, **Accept** your mission on the opening page. 
+ To run the application, download and install it on an appropriate Android device, API LEVEL 26 or above. 
+ Once installed and opened, **Accept** your mission on the Welcome page. 
+
+  To video the false message, show the target 
+
+  ![False Target ](https://github.com/ryan11719/Secret_Agent/assets/83818995/6e4ff98a-5580-4cbd-b20a-8f4870b50a82)
+
 
 
 
