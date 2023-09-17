@@ -11,7 +11,7 @@ As part of the Cybersecurity module, we were tasked with using Augmented Reality
 
 The Scenario we set was that an Intelligence agency wants to Dead-drops using an Augmented Reality Mobile application. **Agents**(technically anybody), could download and install the apk for the application, through a number of means. The apk would be a mobile application, that stores important information, or orders the agent needs to receive. However, the information will only appear when the agent finds the secret AR marker. 
 
-##Solution 
+## Solution 
 
 We utilize **Unity** and  **Vuforia Engine** to develop our Augmented Reality application. Unity was used as a development environment and we utilized a number of their UI and game objects for our application design.  Vufoia engine is an Augmented Reality software development kit (SDK) that we imported into Unity.
 
