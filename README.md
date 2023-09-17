@@ -25,10 +25,15 @@ For our application, we set two separate image targets. The one image is a false
  To run the application, download and install it on an appropriate Android device, API LEVEL 26 or above. 
  Once installed and opened, **Accept** your mission on the Welcome page. 
 
-  To video the false message, show the target 
-![image](https://github.com/ryan11719/Secret_Agent/assets/83818995/223f7caf-0fb9-4c24-9e4e-877e846d2b95)
+To view the embed information in the **False Target **, point your device at this image. 
 
- ![False Target ](https://github.com/ryan11719/Secret_Agent/assets/lando-norris-mclaren-mcl60-1.jpg)
+![False Target ](https://github.com/ryan11719/Secret_Agent/assets/83818995/223f7caf-0fb9-4c24-9e4e-877e846d2b95)
+
+To view the **True Message**, point your device at this image 
+
+![image](https://github.com/ryan11719/Secret_Agent/assets/83818995/7cfc919a-23c5-4351-892a-36f81680fec3)
+
+The images can be displayed  digitally or physically, just ensure that the lighting is accurate. Once the targets find either of the images, the appropriate action will occur. 
 
 
 
