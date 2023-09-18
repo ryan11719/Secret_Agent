@@ -37,7 +37,7 @@ The images can be displayed  digitally or physically, as long as there is approp
 
 ## Demo Video 
 
-The demo Video is to large to be emmbeded into the  README file but can be downloaded from the repository.
+The Demo Video is to large to be emmbeded into the  README file but can be downloaded from the repository.
 
 
 
