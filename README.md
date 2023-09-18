@@ -19,7 +19,7 @@ We used a number of Unity UI elements for our design including panels, 3D Planes
 
 Using Vuforia, we were able to do AR image recognition. Once Vuforia is imported into Unity, we were able to use the Vuforia ImageTarget game object. The ImageTarget is a Vuforia object that allows us to identify images through the mobile device camera. In the Unity inspector, we were able to set an image for our image target to identify, as what actions to perform when the image is found or lost. 
 
-For our application, we set two separate image targets. The one image is a false target, which when found, plays the incorrect video. While the other image is the true target, which when found, plays the **"Mission Intor"** followed by the **Hidden Message**,  we also include a bonus feature. 
+For our application, we set two separate image targets. The one image is a false target, which when found, plays the incorrect video. While the other image is the true target, which when found, plays the **"Mission Intro"** followed by the **Hidden Message**,  we also include a bonus feature. 
 
 ## Instructions
  To run the application, download and install it on an appropriate Android device, API LEVEL 26 or above. 
