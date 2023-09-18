@@ -1,6 +1,6 @@
 # Secret_Agent
 
-This repository holds the files for task 2 of the COS 738 Assignment 1.
+This repository holds the files for task 1 of the COS 738 Assignment 1.
 This was a group project conducted by **__Ryan Hansen__** and **__Chezlyn Petersen__**
 
 ## Project Descriptions 
